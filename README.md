@@ -2,6 +2,7 @@
 
 For AWS getting Up IAM user and creating the bucket refer the word document 
 
+After creating s3 bucket update the details in .env file
 
 **Tools & Features Used:**
 
